@@ -1,0 +1,202 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5621_DAC7311
+D Single channel DAC,12-bit, 30MHz, SPI interface
+K dac spi 1ch
+F http://www.ti.com/lit/ds/symlink/dac7311.pdf
+$ENDCMP
+#
+$CMP AD7276
+D Single channel ADC, 12-bit, single-ended input, 3MSPS, SPI interface
+K successive approximation sar adc spi 1ch
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD7276_7277_7278.pdf
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP DS12885_EDIP24
+D Real-Time Clock, PC-AT clock/calendar, 114 bytes battery backed SRAM, built-in battery and crystal
+K RTC
+F https://datasheets.maximintegrated.com/en/ds/DS12885-DS12C887A.pdf
+$ENDCMP
+#
+$CMP DS12885_EDIP24_PINS
+D Real-Time Clock, PC-AT clock/calendar, 114 bytes battery backed SRAM, built-in battery and crystal
+K RTC
+F https://datasheets.maximintegrated.com/en/ds/DS12885-DS12C887A.pdf
+$ENDCMP
+#
+$CMP DS12885_TQFP32
+D Real-Time Clock, PC-AT clock/calendar, 114 bytes battery backed SRAM
+K RTC
+F https://datasheets.maximintegrated.com/en/ds/DS12885-DS12C887A.pdf
+$ENDCMP
+#
+$CMP DVI-D_MOLEX_74320-9004
+D CONN RCPT DVI-D DL 24POS PCB R/A
+K WM6095-ND MicroCross 74320
+F https://www.molex.com/pdm_docs/sd/743209004_sd.pdf
+$ENDCMP
+#
+$CMP F18A-MK2-HOST
+D F18A MK2 host system interface
+$ENDCMP
+#
+$CMP F18A-MK2_1-20
+D F18A MK2 pins 1-20
+$ENDCMP
+#
+$CMP F18A-MK2_21-40
+D F18A MK2 pins 21-40
+$ENDCMP
+#
+$CMP FPC_TMDS_RGB_SINK_22-PIN
+D TMDS and 12-bit RGB mixed use pinout for sink-side interface.
+F https://www.molex.com/pdm_docs/sd/5034802000_sd.pdf
+$ENDCMP
+#
+$CMP FPC_TMDS_RGB_SOURCE_22-PIN
+D TMDS and 12-bit RGB mixed use pinout.
+F https://www.molex.com/pdm_docs/sd/5034802000_sd.pdf
+$ENDCMP
+#
+$CMP FPC_TMDS_SINK_20-PIN
+F https://www.molex.com/pdm_docs/sd/5034802000_sd.pdf
+$ENDCMP
+#
+$CMP FPC_TMDS_SOURCE_20-PIN
+F https://www.molex.com/pdm_docs/sd/5034802000_sd.pdf
+$ENDCMP
+#
+$CMP FPF1320_2in_1out_power_switch
+D Dual-input single-output power switch with reverse current protection
+F https://www.onsemi.com/pub/Collateral/FPF1321-D.PDF
+$ENDCMP
+#
+$CMP FPF2000_LOAD_SWITCH
+D FPF2000 1.8V to 5.5V 50ma load switch with thremal shutdown
+F https://datasheet.octopart.com/FPF2000-ON-Semiconductor-datasheet-86695619.pdf
+$ENDCMP
+#
+$CMP FT230XS_SSOP
+D Full Speed USB to Basic UART, SSOP-16
+K FTDI USB UART interface converter
+F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf
+$ENDCMP
+#
+$CMP IS61WV5128BLL
+D SRAM 512K x 8-bit, TFBGA-36and48, 6x8mm, 10ns
+K 4Mb SRAM (512K x 8-bit) High Speed CMOS Static RAM
+$ENDCMP
+#
+$CMP LED
+D Light emitting diode
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP LP5907
+D Ultra low noise 250mA LDO with short circuit protection
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
+$CMP MC74LCX245MNTWG
+D 3.3V 8-bit 245 buffer with TTL 5V tolarent IO
+$ENDCMP
+#
+$CMP MIC2090_LOAD_SWITCH
+D MIC2090 1.8V to 5.5V 50mA load switch with thremal shutdown and reverse current protection
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC2090_1.pdf
+$ENDCMP
+#
+$CMP MIC29150WU
+D 1.5A low dropout linear regulator, fixed 5V output, TO-263-3
+K 1.5A LDO linear voltage regulator fixed 5V positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC2915x-30x-50x-75x-High-Current-Low-Dropout-Regulators-DS20005685B.pdf
+$ENDCMP
+#
+$CMP MIC29302WT
+D 3A low dropout linear regulator, adjustable output, TO-220
+K 3A LDO linear voltage regulator adjustable positive
+F http://ww1.microchip.com/downloads/en/devicedoc/20005685a.pdf
+$ENDCMP
+#
+$CMP MIC29502WT
+D 5A low dropout linear regulator, adjustable output, TO-220
+K 5A LDO linear voltage regulator adjustable positive
+F http://ww1.microchip.com/downloads/en/devicedoc/20005685a.pdf
+$ENDCMP
+#
+$CMP NLX3G16DM
+D Triple Non-Inverting Buffer, 3.3V with 5V tolerant IO
+F https://www.onsemi.com/pub/Collateral/NLX3G16-D.PDF
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP R_Pack04_Split
+D 4 Resistor network, parallel topology, SMD package
+K R Network parallel topology
+$ENDCMP
+#
+$CMP SJ-3523-SMT-TR
+D audio jack, stereo, 3.5mm, no switch, TRS
+K audio, jack, stereo, TRS
+F https://www.cui.com/product/resource/digikeypdf/sj-352x-smt_series.pdf
+$ENDCMP
+#
+$CMP STM1061_Voltage_Supervisor
+D Voltage supervisor
+$ENDCMP
+#
+$CMP TMDS_ESD_ATL_PINOUT
+D ESD protection for TMDS DVI and HDMI signals, inverted signal order
+F https://assets.nexperia.com/documents/data-sheet/IP4786CZ32S.pdf
+$ENDCMP
+#
+$CMP TMDS_ESD_PCMF2USB3B-C
+D 20KV ESD for TMDS USB, DVI, and HDMI, 2-channels, EMI Filters
+F https://assets.nexperia.com/documents/data-sheet/PCMFXUSB3B_C_SER.pdf
+$ENDCMP
+#
+$CMP TMDS_ESD_Protection
+D ESD protection for TMDS DVI and HDMI signals
+F https://assets.nexperia.com/documents/data-sheet/IP4786CZ32S.pdf
+$ENDCMP
+#
+$CMP TMDS_TYPE_A
+D TMDS type A connector
+K tmds conn
+F https://en.wikipedia.org/wiki/Transition-minimized_differential_signaling
+$ENDCMP
+#
+$CMP USB_B_Micro
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
+$CMP USB_B_Mini
+D USB Mini Type B connector
+K connector USB mini
+F ~
+$ENDCMP
+#
+$CMP XC6SLX9-CSG225
+D Spartan 6 LX 9 XC6SLX9-CSG225
+K FPGA
+$ENDCMP
+#
+$CMP mouse_bites_2x3_P1.0mm
+D Mouse bites, 2x3 holes, 2mmx2mm, 1.0mm pitch
+$ENDCMP
+#
+#End Doc Library
