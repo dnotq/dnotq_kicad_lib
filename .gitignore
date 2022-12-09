@@ -1,5 +1,5 @@
 # Ignore locally created files and backups.
-#*models/
+original_step/
 
 # Ignore random archives.
 *.zip
