@@ -1,8 +1,9 @@
 # Ignore locally created files and backups.
-*models/
+#*models/
 
 # Ignore random archives.
 *.zip
 *.gz
 *.rar
 Thumbs.db
+.DS_Store
