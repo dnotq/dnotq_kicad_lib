@@ -11,7 +11,7 @@ Parts and footprints used in DNOTQ designs.
 
 To set up the library:
 
-- Clone the repository to whereever you want on your system.
+- Clone the repository to where ever you want on your system.
 - Start KiCAD, select `Preferences -> Configure Paths`
 - Create a new Environment Variable called `DNOTQLIB` and set the path to where you cloned the repository:
 
@@ -47,15 +47,18 @@ Symbols and footprints from the libarary will use the `dnotq_library` and `dnotq
 
 ![Symbol and footprint use library nicknames](kicad_using_sym_foot.png "Symbol and footprint use library nicknames")
 
+## New library setup
 
-DNOTQ_FOOTPRINTS  ${DNOTQ_LIB_PATH}\footprints
-DNOTQ_LIB_PATH    P:\Projects\dnotq_kicad_lib
-DNOTQ_MODELS      ${DNOTQ_LIB_PATH}\models
-DNOTQ_SYMBOLS     ${DNOTQ_LIB_PATH}\symbols
-FLIPPINS          E:\kicad_libs\flip-pins\flip-pins_3d
+DNOTQ_LIB_DIR     <lib_clone_path>/dnotq_kicad_lib
+DNOTQ_SYMBOLS     ${DNOTQ_LIB_DIR}/symbols
+DNOTQ_FOOTPRINTS  ${DNOTQ_LIB_DIR}/footprints
+DNOTQ_MODELS      ${DNOTQ_LIB_DIR}/models
+FLIPPINS          <kicad_libs>/flip-pins/flip-pins_3d
 
-dnotq_library     ${DNOTQ_SYMBOLS}/dnotq_kicad_library.kicad_sym
+dnotq_symbol      ${DNOTQ_SYMBOLS}/dnotq_kicad_library.kicad_sym
 dnotq_footprint   ${DNOTQ_FOOTPRINTS}
+
+Deprecated `dnotq_library` in favor of `dnotq_symbol`, since that is really what is in the file, while the symbols + footprints + models are the "library".  Also, hopefully in the future KiCAD will allow symbols to be their own files like footprints and models.
 
 
 # Design Rules
