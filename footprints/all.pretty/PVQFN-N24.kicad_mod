@@ -98,7 +98,7 @@
   (pad 0 thru_hole circle (at -1.3 0.5) (size 0.4572 0.4572) (drill 0.254) (layers *.Cu *.Mask))
   (pad 0 thru_hole circle (at 1.3 0.5) (size 0.4572 0.4572) (drill 0.254) (layers *.Cu *.Mask))
   (pad 0 thru_hole circle (at 0 0.5) (size 0.4572 0.4572) (drill 0.254) (layers *.Cu *.Mask))
-  (model ${DNOTQ_MODELS}/PVQFN-N24.wrl
+  (model ${DNOTQ_MODELS}/PVQFN-N24.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

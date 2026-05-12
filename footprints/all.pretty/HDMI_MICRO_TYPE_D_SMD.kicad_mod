@@ -59,7 +59,7 @@
   (pad 0 smd rect (at -2.9 2.3) (size 1.7 2) (layers F.Cu F.Paste F.Mask))
   (pad 0 smd rect (at 2.9 2.3) (size 1.7 2) (layers F.Cu F.Paste F.Mask))
   (pad 0 smd rect (at 2.85 -1.05) (size 1.8 1.38) (layers F.Cu F.Paste F.Mask))
-  (model ${DNOTQ_MODELS}/MOLEX_HDMI_TYPE_D_SMD.wrl
+  (model ${DNOTQ_MODELS}/MOLEX_HDMI_TYPE_D_SMD.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

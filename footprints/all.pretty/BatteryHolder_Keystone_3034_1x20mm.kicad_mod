@@ -526,7 +526,7 @@
 		(uuid "3d63f2a4-d13c-4b3e-b083-93d74e8f919f")
 	)
 	(embedded_fonts no)
-	(model "${DNOTQ_MODELS}/BatteryHolder_Keystone_3034_1x20mm.wrl"
+	(model "${DNOTQ_MODELS}/BatteryHolder_Keystone_3034_1x20mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -50,7 +50,7 @@
   (pad 17 thru_hole circle (at 6.38 -1.52) (size 1.4 1.4) (drill 0.86) (layers *.Cu *.Mask))
   (pad SH thru_hole circle (at 31.8 0) (size 4.2 4.2) (drill 3.175) (layers *.Cu *.Mask))
   (pad SH thru_hole circle (at 0 0) (size 4.2 4.2) (drill 3.175) (layers *.Cu *.Mask))
-  (model ${DNOTQ_MODELS}/MOLEX_DVI-D.wrl
+  (model ${DNOTQ_MODELS}/MOLEX_DVI-D.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

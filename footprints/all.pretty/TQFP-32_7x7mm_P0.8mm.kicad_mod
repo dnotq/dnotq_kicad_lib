@@ -458,7 +458,7 @@
 		(uuid "84f7f651-56aa-4c5e-a2f2-e653e6fecb68")
 	)
 	(embedded_fonts no)
-	(model "${DNOTQ_MODELS}/TQFP-32_7x7mm_P0.8mm.wrl"
+	(model "${DNOTQ_MODELS}/TQFP-32_7x7mm_P0.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

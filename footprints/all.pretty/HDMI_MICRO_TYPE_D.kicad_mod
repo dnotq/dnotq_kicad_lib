@@ -32,7 +32,7 @@
   (pad 0 thru_hole oval (at -3.09 2.3) (size 1.5 2.55) (drill oval 0.65 1.7) (layers *.Cu *.Mask))
   (pad 0 thru_hole oval (at 3.11 2.3) (size 1.5 2.55) (drill oval 0.65 1.7) (layers *.Cu *.Mask))
   (pad 0 thru_hole oval (at 3.11 -1.1) (size 1.5 2.55) (drill oval 0.65 1.7) (layers *.Cu *.Mask))
-  (model ${DNOTQ_MODELS}/HDMI_MICRO_TYPE_D.wrl
+  (model ${DNOTQ_MODELS}/HDMI_MICRO_TYPE_D.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

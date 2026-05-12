@@ -23,7 +23,7 @@
   (pad "22" thru_hole circle (at 1.27 0) (size 1.016 1.016) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 7949b2e0-1fd0-47a2-bfb1-6a8a616b6ee9))
   (pad "23" thru_hole circle (at -1.27 0) (size 1.016 1.016) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 38a165b7-0fc2-45e6-a98f-dd2a8447fdaf))
   (pad "24" thru_hole circle (at -3.81 0) (size 1.016 1.016) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 2264574d-1b16-4701-913d-96ae9a4c3b49))
-  (model "${FLIPPINS}/flip-pins_3d/flip-pins-4.wrl"
+  (model "${FLIPPINS}/flip-pins_3d/flip-pins-4.step"
     (offset (xyz 0 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 0))

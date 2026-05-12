@@ -49,7 +49,7 @@
   (pad "18" smd roundrect (at 2.8625 -1.625) (size 1.475 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 4f980999-f5aa-4417-a7c1-9acb9697637e))
   (pad "19" smd roundrect (at 2.8625 -2.275) (size 1.475 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp caae19b2-133e-4494-85f7-86802026a3e7))
   (pad "20" smd roundrect (at 2.8625 -2.925) (size 1.475 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 095cd447-3705-4115-b368-3365968ae7fa))
-  (model "${DNOTQ_MODELS}/TSSOP-20_4.4x6.5mm_P0.65mm.wrl"
+  (model "${DNOTQ_MODELS}/TSSOP-20_4.4x6.5mm_P0.65mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

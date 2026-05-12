@@ -53,7 +53,7 @@
   (pad 38 thru_hole circle (at 15.24 5.08) (size 1.05 1.05) (drill 0.6604) (layers *.Cu *.Mask))
   (pad 39 thru_hole circle (at 15.24 2.54) (size 1.05 1.05) (drill 0.6604) (layers *.Cu *.Mask))
   (pad 40 thru_hole circle (at 15.24 0) (size 1.05 1.05) (drill 0.6604) (layers *.Cu *.Mask))
-  (model ${DNOTQ_MODELS}/DIP-40_W15.24mm_Socket.wrl
+  (model ${DNOTQ_MODELS}/DIP-40_W15.24mm_Socket.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

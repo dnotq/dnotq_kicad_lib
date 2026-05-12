@@ -31,7 +31,7 @@
   (pad C2 smd circle (at -0.2 0.4) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad C3 smd circle (at 0.2 0.4) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad C4 smd circle (at 0.6 0.4) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
-  (model ${DNOTQ_MODELS}/WLCSP10-424.wrl
+  (model ${DNOTQ_MODELS}/WLCSP10-424.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

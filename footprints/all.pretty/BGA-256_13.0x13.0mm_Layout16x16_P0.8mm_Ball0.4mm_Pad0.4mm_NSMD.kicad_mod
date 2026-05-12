@@ -299,7 +299,7 @@
   (pad "T14" smd circle (at 4.4 6) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 088e0d63-8516-459c-9603-83512e319b56))
   (pad "T15" smd circle (at 5.2 6) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c03898da-7b8b-4ac0-8b78-fb4e96254974))
   (pad "T16" smd circle (at 6 6) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dd9992bd-121b-49a2-8a2f-c8f24bcc5b54))
-  (model "${DNOTQ_MODELS}/BGA_CSG_225.wrl"
+  (model "${DNOTQ_MODELS}/BGA_CSG_225.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

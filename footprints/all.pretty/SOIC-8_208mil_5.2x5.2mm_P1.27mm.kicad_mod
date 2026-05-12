@@ -55,7 +55,7 @@
   (pad "6" smd roundrect (at 3.7 0.635) (size 1.55 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d7f30f9e-6856-494c-b88f-f80807717b84))
   (pad "7" smd roundrect (at 3.7 -0.635) (size 1.55 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 1e12ff61-a379-4fc3-81a8-d6c3d612411a))
   (pad "8" smd roundrect (at 3.7 -1.905) (size 1.55 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 1a8fb2cc-6f5e-4e7e-9159-44e6204ea305))
-  (model "${DNOTQ_MODELS}/SOIC-8_5.275x5.275mm_P1.27mm.wrl"
+  (model "${DNOTQ_MODELS}/SOIC-8_5.275x5.275mm_P1.27mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

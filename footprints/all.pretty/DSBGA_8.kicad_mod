@@ -29,7 +29,7 @@
   (pad 7 smd circle (at 0.25 -0.25) (size 0.23 0.23) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd circle (at 0.25 0.25) (size 0.23 0.23) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd circle (at 0.25 0.75) (size 0.23 0.23) (layers F.Cu F.Paste F.Mask))
-  (model ${DNOTQ_MODELS}/DSBGA-8_YZT.wrl
+  (model ${DNOTQ_MODELS}/DSBGA-8_YZT.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
