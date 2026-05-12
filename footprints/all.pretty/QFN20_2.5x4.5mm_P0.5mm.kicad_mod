@@ -48,7 +48,7 @@
   (pad 0 thru_hole circle (at 0 1.2) (size 0.4572 0.4572) (drill 0.254) (layers *.Cu *.Mask))
   (pad "" smd roundrect (at 0 -0.6) (size 0.8 0.6) (layers F.Paste) (roundrect_rratio 0.25))
   (pad "" smd roundrect (at 0 0.6) (size 0.8 0.6) (layers F.Paste) (roundrect_rratio 0.25))
-  (model ${DNOTQ_MODELS}/QFN20_2.5x4.5mm_P0.5.step
+  (model ${DNOTQ_DIR}/models/QFN20_2.5x4.5mm_P0.5.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

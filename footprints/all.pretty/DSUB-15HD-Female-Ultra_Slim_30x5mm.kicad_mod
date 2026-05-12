@@ -59,7 +59,7 @@
   (pad "" np_thru_hole circle (at 7.875 0.5) (size 2.1 2.1) (drill 2.1) (layers *.Cu *.Mask))
   (pad 0 thru_hole oval (at 12.375 0.7) (size 4.25 2) (drill oval 3.25 1) (layers *.Cu *.Mask))
   (pad 0 thru_hole oval (at -12.625 0.7) (size 4.25 2) (drill oval 3.25 1) (layers *.Cu *.Mask))
-  (model ${DNOTQ_MODELS}/DSUB-HD15-30X5MM.step
+  (model ${DNOTQ_DIR}/models/DSUB-HD15-30X5MM.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

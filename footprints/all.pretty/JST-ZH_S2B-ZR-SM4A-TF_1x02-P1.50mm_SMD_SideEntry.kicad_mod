@@ -312,7 +312,7 @@
 		(uuid "2f8f6a89-a5da-45d2-b5fa-897e9b19292c")
 	)
 	(embedded_fonts no)
-	(model "${DNOTQ_MODELS}/JST_ZH_S2B-ZR-SM4A-TF.step"
+	(model "${DNOTQ_DIR}/models/JST_ZH_S2B-ZR-SM4A-TF.step"
 		(offset
 			(xyz 0 0 0)
 		)

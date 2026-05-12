@@ -34,7 +34,7 @@
   (pad "6" smd roundrect (at 0.5 0.25) (size 0.5 0.26) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp b34b12ff-c614-4f54-b93b-cfecb28eb0dc))
   (pad "7" smd roundrect (at 0.5 -0.25) (size 0.5 0.26) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7a019cbc-f5de-46dd-a75c-ef7707b0adf5))
   (pad "8" smd roundrect (at 0.5 -0.82) (size 0.5 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7dfe2b38-af84-4838-bb77-70af4ab8d9a5))
-  (model "${DNOTQ_MODELS}/R_Array_Convex_4x0402.step"
+  (model "${DNOTQ_DIR}/models/R_Array_Convex_4x0402.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

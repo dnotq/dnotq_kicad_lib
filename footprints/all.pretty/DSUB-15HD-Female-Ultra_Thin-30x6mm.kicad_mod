@@ -65,7 +65,7 @@
   (pad "" np_thru_hole circle (at -9.525 0) (size 1.93 1.93) (drill 1.93) (layers *.Cu *.Mask))
   (pad 0 thru_hole circle (at 15.365 -3.31) (size 3 3) (drill 1.93) (layers *.Cu *.Mask))
   (pad 0 thru_hole circle (at -15.365 -3.31) (size 3 3) (drill 1.93) (layers *.Cu *.Mask))
-  (model ${DNOTQ_MODELS}/EDAC_DSUB_HD15_THIN_FEMALE.step
+  (model ${DNOTQ_DIR}/models/EDAC_DSUB_HD15_THIN_FEMALE.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

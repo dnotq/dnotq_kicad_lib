@@ -34,7 +34,7 @@
   (pad "3" smd roundrect (at -0.95 0.65) (size 0.65 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 37657eee-b379-4145-b65d-79c82b53e49e))
   (pad "4" smd roundrect (at 0.95 0.65) (size 0.65 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f934a442-23d6-4e5b-908f-bb9199ad6f8b))
   (pad "5" smd roundrect (at 0.95 -0.65) (size 0.65 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp de552ae9-cde6-4643-8cc7-9de2579dadae))
-  (model "${DNOTQ_MODELS}/SOT-353_SC-70-5.step"
+  (model "${DNOTQ_DIR}/models/SOT-353_SC-70-5.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

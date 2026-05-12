@@ -150,7 +150,7 @@
   (pad "98" smd roundrect (at -5 -7.6625) (size 0.3 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 53576190-9955-46ad-82c2-13bb194a837d))
   (pad "99" smd roundrect (at -5.5 -7.6625) (size 0.3 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 36ff41a5-37e4-4fa4-a2a0-358e0427d59b))
   (pad "100" smd roundrect (at -6 -7.6625) (size 0.3 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7306d4b6-3cc0-45d4-b933-272b6a71580a))
-  (model "${DNOTQ_MODELS}/VQFP-100_14x14mm_P0.5mm.step"
+  (model "${DNOTQ_DIR}/models/VQFP-100_14x14mm_P0.5mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

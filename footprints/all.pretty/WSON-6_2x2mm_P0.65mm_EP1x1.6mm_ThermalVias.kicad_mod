@@ -51,7 +51,7 @@
   (pad "7" smd rect (at 0 0) (size 0.5 1.6) (layers "B.Cu") (tstamp 2d94d974-75ca-4580-b5fa-484adc109964))
   (pad "7" smd roundrect (at 0 0) (size 1 1.6) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.05) (tstamp ea067483-d21b-4174-9f88-5de22ab588af))
   (pad "7" thru_hole circle (at 0 0.55) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp fd617bb0-c472-40f3-9b5b-da5cae519d29))
-  (model "${DNOTQ_MODELS}/WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm.step"
+  (model "${DNOTQ_DIR}/models/WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

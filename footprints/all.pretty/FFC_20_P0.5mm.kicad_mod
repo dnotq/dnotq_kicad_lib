@@ -43,7 +43,7 @@
   (pad 20 smd roundrect (at 4.75 -1.6) (size 0.3 0.9) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 0 smd roundrect (at -5.54 1) (size 0.3 1.2) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 0 smd roundrect (at 5.54 1) (size 0.3 1.2) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${DNOTQ_MODELS}/molex_FFC_20_P0.5.step
+  (model ${DNOTQ_DIR}/models/molex_FFC_20_P0.5.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -51,7 +51,7 @@
   (pad 0 thru_hole circle (at -7.85 5) (size 1.9 1.9) (drill 1.3) (layers *.Cu *.Mask))
   (pad 0 thru_hole circle (at 7.85 5) (size 1.9 1.9) (drill 1.3) (layers *.Cu *.Mask))
   (pad 0 thru_hole circle (at 7.25 0) (size 1.9 1.9) (drill 1.3) (layers *.Cu *.Mask))
-  (model ${DNOTQ_MODELS}/amp_fci_tmds_type_a.step
+  (model ${DNOTQ_DIR}/models/amp_fci_tmds_type_a.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

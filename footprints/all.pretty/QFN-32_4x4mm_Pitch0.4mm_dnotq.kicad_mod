@@ -72,7 +72,7 @@
   (pad 0 thru_hole circle (at 0.7 -0.7) (size 0.4572 0.4572) (drill 0.254) (layers *.Cu *.Mask))
   (pad 0 thru_hole circle (at 0.7 0.7) (size 0.4572 0.4572) (drill 0.254) (layers *.Cu *.Mask))
   (pad 0 thru_hole circle (at -0.7 0.7) (size 0.4572 0.4572) (drill 0.254) (layers *.Cu *.Mask))
-  (model ${DNOTQ_MODELS}/QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm.step
+  (model ${DNOTQ_DIR}/models/QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

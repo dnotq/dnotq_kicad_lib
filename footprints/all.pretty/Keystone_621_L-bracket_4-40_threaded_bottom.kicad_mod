@@ -21,7 +21,7 @@
   (fp_line (start 3.7 6.4) (end -3.7 6.4) (layer F.CrtYd) (width 0.05))
   (fp_line (start 3.7 -3.7) (end -3.7 -3.7) (layer F.CrtYd) (width 0.05))
   (pad "" np_thru_hole oval (at 0 0) (size 3 4.6) (drill oval 3 4.6) (layers *.Cu *.Mask))
-  (model ${DNOTQ_MODELS}/Keystone-621_bottom.step
+  (model ${DNOTQ_DIR}/models/Keystone-621_bottom.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

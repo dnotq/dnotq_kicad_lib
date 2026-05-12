@@ -46,7 +46,7 @@
   (pad "12" smd roundrect (at 2.475 -1.27) (size 1.95 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 5fe4bae7-bd67-4497-be26-5d7fb1c912ec))
   (pad "13" smd roundrect (at 2.475 -2.54) (size 1.95 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 24ec25d2-1025-43b6-98c8-789f10a0db96))
   (pad "14" smd roundrect (at 2.475 -3.81) (size 1.95 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d19a0e66-4aa7-43bb-b41c-e8b6a4a8cbc4))
-  (model "${DNOTQ_MODELS}/SOIC-14_3.9x8.7mm_P1.27mm.step"
+  (model "${DNOTQ_DIR}/models/SOIC-14_3.9x8.7mm_P1.27mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -21,7 +21,7 @@
   (pad 1 thru_hole roundrect (at -4.7 0) (size 3.7 5) (drill 1.85) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 2 thru_hole oval (at 0 0) (size 3.7 5) (drill 1.85) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 4.7 0) (size 3.7 5) (drill 1.85) (layers *.Cu *.Mask))
-  (model ${DNOTQ_MODELS}/CK_SWITCH_101M2S3CQE011.step
+  (model ${DNOTQ_DIR}/models/CK_SWITCH_101M2S3CQE011.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

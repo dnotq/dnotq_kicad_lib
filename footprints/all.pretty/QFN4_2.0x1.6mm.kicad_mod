@@ -26,7 +26,7 @@
   (pad "2" smd roundrect (at 0.7 0.55) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 43b47eaa-68a8-4fb6-abc6-ce6f6564af10))
   (pad "3" smd roundrect (at 0.7 -0.55) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 5e3c85a4-6c8b-484b-8b1e-ad0603ab653e))
   (pad "4" smd roundrect (at -0.7 -0.55) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 616156b9-4f9a-41ee-bd3f-993a04e4f8da))
-  (model "${DNOTQ_MODELS}/ASA_QFN_2.0x1.6.step"
+  (model "${DNOTQ_DIR}/models/ASA_QFN_2.0x1.6.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
