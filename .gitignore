@@ -1,6 +1,9 @@
 # Ignore locally created files and backups.
 original_step/
 
+*.bak
+**/*.bak
+
 # Ignore random archives.
 *.zip
 *.gz

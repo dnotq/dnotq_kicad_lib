@@ -6,7 +6,7 @@
 	(descr "TI-99/4A cartridge board edge connector.")
 	(tags "99/4A, cartridge, retro, edge")
 	(property "Reference" "REF**"
-		(at 0 -7.62 0)
+		(at 0 -13 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "6b47f878-7344-4c65-8a18-d28ab76961fe")
@@ -57,8 +57,8 @@
 	)
 	(attr smd)
 	(fp_rect
-		(start -24.13 -4.445)
-		(end 21.59 5.715)
+		(start -25.13 -4.445)
+		(end 22.59 6.715)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -68,8 +68,8 @@
 		(uuid "ddb6c1c4-ec1a-4b90-bfc2-015285633e32")
 	)
 	(fp_rect
-		(start -24.13 -4.445)
-		(end 21.59 5.715)
+		(start -25.13 -4.445)
+		(end 22.59 6.715)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -77,6 +77,154 @@
 		(fill yes)
 		(layer "B.Mask")
 		(uuid "cb83e5f0-f1a9-4229-b81e-0e187c570e2e")
+	)
+	(fp_line
+		(start -25 5.5)
+		(end -25 -7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c85a51ad-97b1-4e35-9082-2adb9845b164")
+	)
+	(fp_line
+		(start -24 6.5)
+		(end 21.5 6.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d9b873fc-36aa-4b2f-b1a8-86b14ebfd886")
+	)
+	(fp_line
+		(start 22.5 5.5)
+		(end 22.5 -7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "cbe7d322-7a57-44de-ac24-107e2dc5c3ad")
+	)
+	(fp_arc
+		(start -27 -9)
+		(mid -25.585786 -8.414214)
+		(end -25 -7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "cc8898bb-0208-49ce-a159-ae7ee0d38b55")
+	)
+	(fp_arc
+		(start -24 6.5)
+		(mid -24.707107 6.207107)
+		(end -25 5.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3c7b202a-5f27-448e-9616-deb2351ed237")
+	)
+	(fp_arc
+		(start 22.5 -7)
+		(mid 23.085786 -8.414214)
+		(end 24.5 -9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "10db1c92-ea6b-4e56-8674-335b54948c01")
+	)
+	(fp_arc
+		(start 22.5 5.5)
+		(mid 22.207107 6.207107)
+		(end 21.5 6.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "aaf4a486-dc34-45ed-ab2c-aa849cac6c30")
+	)
+	(fp_rect
+		(start -25 -4.5)
+		(end 22.5 6.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "B.CrtYd")
+		(uuid "ce704dd4-1a9f-4662-87e2-3f985847bb33")
+	)
+	(fp_rect
+		(start -25 -4.5)
+		(end 22.5 6.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "06979d4c-13f0-46a5-b2a3-5fa9e3672915")
+	)
+	(fp_text user "36"
+		(at -24 -9 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d86e7d0b-8159-46d2-a432-c93f548003bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "2"
+		(at 20 -9 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e2cf07a4-2e57-457f-8385-7f6c34bbdc38")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "35"
+		(at -22 -9 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "22a59635-6cf5-4162-aaf0-a0d0f6636269")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(fp_text user "1"
+		(at 21 -9.5 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "a74c01d3-d802-41be-91b8-8b64b219c57a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 6.985 0)
@@ -88,6 +236,48 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
+		)
+	)
+	(fp_text_box "GND\n~{ROMSEL}\n~{WE}\nA800\nA400\nA200\nA1000\nA100\nA080\nA040\nA020\nA010\nA008\nA004\nA001/CRU_OUT\nCRU_IN\n~{CRUCLK}\nGND"
+		(start -24.5 -15)
+		(end 21.5 -4.5)
+		(margins 1.0025 1.0025 1.0025 1.0025)
+		(angle 90)
+		(layer "F.SilkS")
+		(uuid "4b46da03-1156-4ef8-96c5-c385419107c4")
+		(effects
+			(font
+				(size 1.57 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(border no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+	)
+	(fp_text_box "RESET\nD01\nD02\nD04\nD08\nD10\nD20\nD40\nD80\n+5V\n~{GROMSEL}\nA002\nDBIN\nGROMCLK\n-5V\nGROMRDY\n-0.72V\nGND"
+		(start -24.5 -14)
+		(end 22 -4.5)
+		(margins 1.0025 1.0025 1.0025 1.0025)
+		(angle 270)
+		(layer "B.SilkS")
+		(uuid "9fabb674-6729-44cf-bc9c-b57740184dda")
+		(effects
+			(font
+				(size 1.57 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left top mirror)
+		)
+		(border no)
+		(stroke
+			(width 0)
+			(type solid)
 		)
 	)
 	(pad "1" smd roundrect
