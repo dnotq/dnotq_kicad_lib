@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:SOT-353_SC-70-5_DNOTQ"
+		(property "Footprint" "dnotq_all:SOT-353_SC-70-5_DNOTQ"
 			(at 1.27 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)

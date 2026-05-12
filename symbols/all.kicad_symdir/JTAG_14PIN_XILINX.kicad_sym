@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:HEADER_7x2_2MM_VERT"
+		(property "Footprint" "dnotq_all:HEADER_7x2_2MM_VERT"
 			(at -2.794 8.89 0)
 			(show_name no)
 			(do_not_autoplace no)

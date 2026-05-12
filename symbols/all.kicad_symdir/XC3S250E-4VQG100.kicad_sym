@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:VQFP-100_14x14mm_P0.5mm"
+		(property "Footprint" "dnotq_all:VQFP-100_14x14mm_P0.5mm"
 			(at 5.08 -40.64 0)
 			(show_name no)
 			(do_not_autoplace no)

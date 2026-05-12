@@ -32,7 +32,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:PinSocket_2x06_P2.54mm_Horz_TopBot"
+		(property "Footprint" "dnotq_all:PinSocket_2x06_P2.54mm_Horz_TopBot"
 			(at 0.254 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)

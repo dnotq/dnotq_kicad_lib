@@ -32,7 +32,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:FLIP-PINS-FLOAT-21-24"
+		(property "Footprint" "dnotq_all:FLIP-PINS-FLOAT-21-24"
 			(at 18.415 -15.875 0)
 			(show_name no)
 			(do_not_autoplace no)

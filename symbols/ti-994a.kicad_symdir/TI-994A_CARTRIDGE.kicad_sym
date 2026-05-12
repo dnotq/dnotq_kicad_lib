@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:TI-994A_CARTRIDGE"
+		(property "Footprint" "dnotq_ti-994a:TI-994A_CARTRIDGE"
 			(at -0.508 -22.606 0)
 			(show_name no)
 			(do_not_autoplace no)

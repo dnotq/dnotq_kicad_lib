@@ -32,7 +32,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:DFN_6-1.2x1.3mm-P0.4mm"
+		(property "Footprint" "dnotq_all:DFN_6-1.2x1.3mm-P0.4mm"
 			(at 0 8.255 0)
 			(show_name no)
 			(do_not_autoplace no)

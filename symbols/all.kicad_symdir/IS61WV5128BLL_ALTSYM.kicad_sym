@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:TFBGA_36and48_6x8mm"
+		(property "Footprint" "dnotq_all:TFBGA_36and48_6x8mm"
 			(at 0 -39.37 0)
 			(show_name no)
 			(do_not_autoplace no)

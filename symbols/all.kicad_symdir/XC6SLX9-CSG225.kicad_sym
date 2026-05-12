@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:BGA_225"
+		(property "Footprint" "dnotq_all:BGA_225"
 			(at 0 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -33,7 +33,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:TSOT-23-6"
+		(property "Footprint" "dnotq_all:TSOT-23-6"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)

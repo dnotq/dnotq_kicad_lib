@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:UDFN_8-2x1mm-P0.5mm"
+		(property "Footprint" "dnotq_all:UDFN_8-2x1mm-P0.5mm"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

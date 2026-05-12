@@ -33,7 +33,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:FPC_22_P0.5mm"
+		(property "Footprint" "dnotq_all:FPC_22_P0.5mm"
 			(at 18.796 -85.344 0)
 			(show_name no)
 			(do_not_autoplace no)

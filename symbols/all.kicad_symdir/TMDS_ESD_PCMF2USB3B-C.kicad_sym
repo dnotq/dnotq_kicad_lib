@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:WLCSP10_4-2-4-1.6x1.2mm-P0.4mm"
+		(property "Footprint" "dnotq_all:WLCSP10_4-2-4-1.6x1.2mm-P0.4mm"
 			(at 1.27 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)

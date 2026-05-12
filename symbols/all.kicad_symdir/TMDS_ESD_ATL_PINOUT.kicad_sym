@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:QFN-32_4x4mm_Pitch0.4mm_dnotq"
+		(property "Footprint" "dnotq_all:QFN-32_4x4mm_Pitch0.4mm_dnotq"
 			(at 6.858 -17.526 90)
 			(show_name no)
 			(do_not_autoplace no)

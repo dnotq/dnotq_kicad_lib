@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:WSON-6_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias"
+		(property "Footprint" "dnotq_all:WSON-6_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias"
 			(at 1.27 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)

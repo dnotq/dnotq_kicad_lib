@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:DVI-D_Female_74320-9004"
+		(property "Footprint" "dnotq_all:DVI-D_Female_74320-9004"
 			(at 5.08 5.08 0)
 			(show_name no)
 			(do_not_autoplace no)

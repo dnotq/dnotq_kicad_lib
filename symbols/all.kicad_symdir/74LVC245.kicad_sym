@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:QFN20_2.5x4.5mm_P0.5mm"
+		(property "Footprint" "dnotq_all:QFN20_2.5x4.5mm_P0.5mm"
 			(at 0.254 -22.86 0)
 			(show_name no)
 			(do_not_autoplace no)

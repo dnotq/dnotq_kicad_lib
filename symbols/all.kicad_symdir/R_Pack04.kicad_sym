@@ -32,7 +32,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:R_Array_Convex_4x0402"
+		(property "Footprint" "dnotq_all:R_Array_Convex_4x0402"
 			(at 9.525 -0.635 90)
 			(show_name no)
 			(do_not_autoplace no)

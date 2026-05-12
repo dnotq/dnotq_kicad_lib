@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:TO-263-3_TabPin2"
+		(property "Footprint" "dnotq_all:TO-263-3_TabPin2"
 			(at 2.54 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)

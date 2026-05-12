@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dnotq_footprint:SOIC-8_208mil_5.2x5.2mm_P1.27mm"
+		(property "Footprint" "dnotq_all:SOIC-8_208mil_5.2x5.2mm_P1.27mm"
 			(at 1.27 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
