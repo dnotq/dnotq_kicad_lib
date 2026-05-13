@@ -1,0 +1,759 @@
+(kicad_symbol_lib
+	(version 20251024)
+	(generator "kicad_symbol_editor")
+	(generator_version "10.0")
+	(symbol "IS61WV5128BLL"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "U"
+			(at -7.62 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "IS61WV5128BLL"
+			(at 1.016 -27.178 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "dnotq_all:TFBGA_36and48_6x8mm"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SRAM 512K x 8-bit, TFBGA-36and48, 6x8mm, 10ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "4Mb SRAM (512K x 8-bit) High Speed CMOS Static RAM"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_fp_filters" "BGA* TFBGA*"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "IS61WV5128BLL_0_0"
+			(pin power_in line
+				(at 12.7 -20.32 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "D1"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 -22.86 0)
+				(length 2.54)
+				(name "A18"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "F3"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 -20.32 0)
+				(length 2.54)
+				(name "A17"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "F4"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 -17.78 0)
+				(length 2.54)
+				(name "A16"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "G4"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 -15.24 0)
+				(length 2.54)
+				(name "A15"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "G5"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+		)
+		(symbol "IS61WV5128BLL_0_1"
+			(rectangle
+				(start -10.16 25.4)
+				(end 10.16 -25.4)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "IS61WV5128BLL_1_0"
+			(pin power_in line
+				(at 12.7 -12.7 180)
+				(length 2.54)
+				(name "VDD"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "D6"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+		)
+		(symbol "IS61WV5128BLL_1_1"
+			(pin input line
+				(at -12.7 22.86 0)
+				(length 2.54)
+				(name "A0"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "A1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 20.32 0)
+				(length 2.54)
+				(name "A1"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "A2"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 12.7 -6.858 180)
+				(length 2.54)
+				(name "NC"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "A3"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 15.24 0)
+				(length 2.54)
+				(name "A3"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "A4"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 7.62 0)
+				(length 2.54)
+				(name "A6"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "A5"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 2.54 0)
+				(length 2.54)
+				(name "A8"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "A6"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin tri_state line
+				(at 12.7 12.7 180)
+				(length 2.54)
+				(name "D4"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "B1"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 17.78 0)
+				(length 2.54)
+				(name "A2"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "B2"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 12.7 -1.27 180)
+				(length 2.54)
+				(name "~{WE}"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "B3"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 12.7 0)
+				(length 2.54)
+				(name "A4"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "B4"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 5.08 0)
+				(length 2.54)
+				(name "A7"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "B5"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin tri_state line
+				(at 12.7 22.86 180)
+				(length 2.54)
+				(name "D0"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "B6"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin tri_state line
+				(at 12.7 10.16 180)
+				(length 2.54)
+				(name "D5"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "C1"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 12.7 -9.398 180)
+				(length 2.54)
+				(name "NC"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "C3"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 10.16 0)
+				(length 2.54)
+				(name "A5"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "C4"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin tri_state line
+				(at 12.7 20.32 180)
+				(length 2.54)
+				(name "D1"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "C6"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 12.7 -15.24 180)
+				(length 2.54)
+				(name "VDD"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "E1"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 12.7 -22.86 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "E6"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin tri_state line
+				(at 12.7 7.62 180)
+				(length 2.54)
+				(name "D6"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "F1"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin tri_state line
+				(at 12.7 17.78 180)
+				(length 2.54)
+				(name "D2"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "F6"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin tri_state line
+				(at 12.7 5.08 180)
+				(length 2.54)
+				(name "D7"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "G1"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 12.7 1.27 180)
+				(length 2.54)
+				(name "~{OE}"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "G2"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 12.7 -3.81 180)
+				(length 2.54)
+				(name "~{CS}"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "G3"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin tri_state line
+				(at 12.7 15.24 180)
+				(length 2.54)
+				(name "D3"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "G6"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 0 0)
+				(length 2.54)
+				(name "A9"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "H1"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 -2.54 0)
+				(length 2.54)
+				(name "A10"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "H2"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 -5.08 0)
+				(length 2.54)
+				(name "A11"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "H3"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 -7.62 0)
+				(length 2.54)
+				(name "A12"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "H4"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 -10.16 0)
+				(length 2.54)
+				(name "A13"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "H5"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 -12.7 0)
+				(length 2.54)
+				(name "A14"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+				(number "H6"
+					(effects
+						(font
+							(size 0.889 0.889)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+)
