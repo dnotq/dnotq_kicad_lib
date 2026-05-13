@@ -1,6 +1,7 @@
 (sym_lib_table
     (version 7)
     (lib (name "dnotq_all") (type "KiCad") (uri "${DNOTQ_DIR}/symbols/all.kicad_symdir") (options "") (descr "") )
+    (lib (name "dnotq_logo_fab") (type "KiCad") (uri "${DNOTQ_DIR}/symbols/logo_fab.kicad_symdir") (options "") (descr "") )
     (lib (name "dnotq_f18a") (type "KiCad") (uri "${DNOTQ_DIR}/symbols/f18a.kicad_symdir") (options "") (descr "") )
     (lib (name "dnotq_ti-994a") (type "KiCad") (uri "${DNOTQ_DIR}/symbols/ti-994a.kicad_symdir") (options "") (descr "") )
 )
